@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+  <script src="https://kit.fontawesome.com/6a695c2251.js" crossorigin="anonymous"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap"
+    rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css" />
+  <link id="favicon" rel="icon" href="favicon-y.ico">
+  <title>Portfolio</title>
+</head>
+
+<body class="dark">
+  <header class="header">
+    <div id="flags" class="flags">
+      <div class="flags__item" data-language="es">
+        <img class="flags__img" src="assets/icons/es.svg" alt="">
+      </div>
+      <div class="flags__item" data-language="cat">
+        <img class="flags__img" src="assets/icons/ct.svg" alt="">
+      </div>
+      <div class="flags__item" data-language="en">
+        <img class="flags__img" src="assets/icons/gb.svg" alt="">
+      </div>
+    </div>
+  </header>
+  <main class="main">
+    <section class="column column--left">
+      <!-- Profile card-->
+      <article class="card card--profile">
+        <div class="card__image-container">
+          <img src="assets/images/profile.jpg" alt="">
+        </div>
+        <div class="card__header">
+          <h2 class="card__title no-margin">Marc Andrés Hervàs</h2>
+          <p class="card__subtitle no-margin" data-section="profile" data-value="rol">Desarrollador Junior</p>
+        </div>
+        <div class="card__body">
+          <div class="card__link">
+            <i class="fas fa-envelope icon"></i>
+            <a href="mailto:m.andreshervas@gmail.com.es">
+              ¡Contactame por correo!
+            </a>
+          </div>
+          <div class="card__link">
+            <i class="fa-brands fa-github icon"></i>
+            <a href="https://github.com/mAndresHervas" target="_blank">
+              ¡Mas en mi GitHub!
+            </a>
+          </div>
+          <p class="card__text" data-section="profile" data-value="description">
+            Durante los ultimos años he adquirido conocimientos y habilidades en diversos lenguajes y plataformas,
+            en especial Java, C#, JavaScript y Android Studio.
+            <br />
+            Intento encontrar soluciones inteligentes e innovadoras a las diversas necesidades que puedan surgir.
+            <br />
+            Estoy en busca de nuevos proyectos y retos donde pueda fortalecer mis habilidades y aprender nuevas 
+            tecnologias y herramientas.
+            <br />
+            Resiliencia y aprendizaje diario.
+          </p>
+      </article>
+      <article class="card card--hobbies">
+        <h2 class="card__title" data-section="cards" data-value="hobbies-title">Hobbies</h2>
+        <div class="card__image-container">
+          <img src="assets/images/senderismo.jpg" alt="music">
+        </div>
+        <h3 class="hobbie__title" data-section="hobbies" data-value="first-hobby-title">Senderismo</h3>
+        <p class="card__text" data-section="hobbies" data-value="first-hobby-description">El senderismo es una de mis pasiones, 
+          una actividad que me permite desconectar de la rutina diaria. Me encanta explorar 
+          nuevos caminos y paisajes, disfrutar del aire libre y desafiar mis propios límites al alcanzar nuevas metas en cada ruta. 
+          Además de ser una excelente forma de ejercicio, el senderismo me ha enseñado a valorar la tranquilidad, 
+          la perseverancia y la belleza de nuestro entorno natural.
+        </p>
+      </article>
+      
+    </section>
+    <section class="column column--right">
+      <article class="card">
+        <h2 class="card__title">Lenguajes</h2>
+        <div class="skills">
+          <div class="skills__item">
+            <p class="skills__tech">Java</p>
+            <div class="skills__bar skills__bar--80"></div>
+          </div>
+          <div class="skills__item">
+            <p class="skills__tech">C#</p>
+            <div class="skills__bar skills__bar--80"></div>
+          </div>
+          <div class="skills__item">
+            <p class="skills__tech">JavaScript</p>
+            <div class="skills__bar skills__bar--60"></div>
+          </div>
+          <div class="skills__item">
+            <p class="skills__tech">Python</p>
+            <div class="skills__bar skills__bar--60"></div>
+          </div>
+        </div>
+        <div class="skills__item">
+          <p class="skills__tech">Kotlin</p>
+          <div class="skills__bar skills__bar--60"></div>
+        </div>
+        <div class="skills__item">
+          <p class="skills__tech">SQL</p>
+          <div class="skills__bar skills__bar--60"></div>
+        </div>
+      </div>
+      </div>
+      </article>
+      <article class="card">
+        <h2 class="card__title" data-section="cards" data-value="design-multimedia">Tecnologias y frameworks</h2>
+        <div class="skills">
+          <div class="skills__item">
+            <p class="skills__tech">Git</p>
+            <div class="skills__bar skills__bar--80"></div>
+          </div>
+          <div class="skills__item">
+            <p class="skills__tech">Node.js</p>
+            <div class="skills__bar skills__bar--60"></div>
+          </div>
+          <div class="skills__item">
+            <p class="skills__tech">.NET</p>
+            <div class="skills__bar skills__bar--60"></div>
+          </div>
+          <div class="skills__item">
+            <p class="skills__tech">ORM (Hibernate)</p>
+            <div class="skills__bar skills__bar--60"></div>
+          </div>
+        </div>
+        <div class="skills__item">
+          <p class="skills__tech">Spring Boot</p>
+          <div class="skills__bar skills__bar--40"></div>
+        </div>
+      </div>
+      </article>
+      <article class="card">
+        <h2 class="card__title" data-section="cards" data-value="design-multimedia">Soft Skills</h2>
+        <div class="skills">
+          <div class="skills__item">
+            <p class="skills__tech">Trabajo en equipo</p>
+            <div class="skills__bar skills__bar--90"></div>
+          </div>
+          <div class="skills__item">
+            <p class="skills__tech">Presentaciones</p>
+            <div class="skills__bar skills__bar--90"></div>
+          </div>
+          <div class="skills__item">
+            <p class="skills__tech">Soporte</p>
+            <div class="skills__bar skills__bar--80"></div>
+          </div>
+          <div class="skills__item">
+            <p class="skills__tech">Liderazgo</p>
+            <div class="skills__bar skills__bar--60"></div>
+          </div>
+        </div>
+      </article>
+      <article class="card">
+        <h2 class="card__title" data-section="cards" data-value="languages">Idiomas</h2>
+        <div class="skills">
+          <div class="skills__item">
+            <p class="skills__tech" data-section="languages" data-value="english">Inglés</p>
+            <div class="skills__bar skills__bar--50"></div>
+          </div>
+          <div class="skills__item">
+            <p class="skills__tech" data-section="languages" data-value="spanish">Español</p>
+            <div class="skills__bar skills__bar--90"></div>
+          </div>
+          <div class="skills__item">
+            <p class="skills__tech" data-section="languages" data-value="valencian">Valenciano</p>
+            <div class="skills__bar skills__bar--90"></div>
+          </div>
+        </div>
+      </article>
+      <a>Experiencia</a>
+      <article class="card card--project">
+        <div class="card__image-container">
+          <img src="assets\images\image.png" alt="Experiencia" class="card__image">
+        </div>
+        <div class="project">
+          <div class="project__tags">
+            <span class="project__tag"> ASP.NET Core </span>
+            <span class="project__tag"> Reuniones Corporativas </span>
+          </div>
+          <h2 class="card__title" data-section="projects" data-value="first-project-title">Desarrollador Junior en Fast Developers<br /> Marzo 2025 - Junio 2025</h2>
+          <p class="card__text" data-section="projects" data-value="first-project-description-1">Segundas prácticas de ciclo en Fast, donde fortalecí .NET enfocado al sector del reporting financiero. Tambien pude mejorar mis habilidades de resolución de problemas.</p>
+          <p class="card__text" data-section="projects" data-value="first-project-description-2">Ademas, pude mejorar mis aptitudes de presentacion de ideas y trabajo en equipo gracias a las reuniones corporativas llevadas a cabo diariamente. Tambien recibí formación en atención al cliente.
+          </p>
+        </div>
+      </article>
+      <article class="card card--project">
+        <div class="card__image-container">
+          <img src="assets\images\image.png" alt="Experiencia" class="card__image">
+        </div>
+        <div class="project">
+          <div class="project__tags">
+            <span class="project__tag"> ASP.NET Core </span>
+            <span class="project__tag"> Reuniones Corporativas </span>
+          </div>
+          <h2 class="card__title" data-section="projects" data-value="first-project-title">Desarrollador Junior en Fast Developers<br /> Marzo 2023 - Junio 2023</h2>
+          <p class="card__text" data-section="projects" data-value="first-project-description-1">Realicé las prácticas de ciclo en Fast, donde aprendí .NET y aplicaciones financieras enfocadas al sector financiero. Tambien pude mejorar mis habilidades de resolución de problemas.</p>
+          <p class="card__text" data-section="projects" data-value="first-project-description-2">Ademas, pude mejorar mis aptitudes de presentacion de ideas y trabajo en equipo gracias a las reuniones corporativas llevadas a cabo diariamente. Tambien recibí formación en atención al cliente.
+          </p>
+        </div>
+      </article>
+      <article class="card card--project">
+        <div class="card__image-container">
+          <img src="assets/images/scout.png" alt="Experiencia" class="card__image">
+        </div>
+        <div class="project">
+          <div class="project__tags">
+            <span class="project__tag"> Trabajo en equipo </span>
+            <span class="project__tag"> Organización y Lideraje </span>
+            <span class="project__tag"> Reuniones corporativas </span>
+          </div>
+          <h2 class="card__title" data-section="projects" data-value="second-project-title">Monitor Voluntario en Grupo Scout <br /> Septiembre 2021 - Actualidad</h2>
+          <p class="card__text" data-section="projects" data-value="second-project-description-1">Formar parte de un grupo scout como monitor de niños y niñas de 11 a 14 años es una experiencia enriquecedora tanto a nivel personal como profesional. A lo largo de mi tiempo como monitor, he tenido la oportunidad de guiar a jóvenes en actividades educativas y recreativas, promoviendo valores como la solidaridad, el respeto y la responsabilidad. </p>
+          <p class="card__text" data-section="projects" data-value="second-project-description-2">Este voluntariado ha fortalecido mis habilidades de liderazgo, ya que debo gestionar y coordinar grupos de niños, así como tomar decisiones rápidas y efectivas en situaciones diversas. Además, me ha permitido mejorar mis competencias en trabajo en equipo, organización y comunicación, ya que siempre trabajamos de manera colaborativa con otros monitores para ofrecer experiencias de calidad a los participantes. Esta experiencia ha sido clave en mi desarrollo como líder y en mi capacidad para afrontar retos con confianza.  </p>
+        </div>
+      </article>
+      <a>Proyectos</a>
+      <article class="card card--project">
+        <div class="card__image-container">
+          <img src="assets\images\Logo_Lemur_Fons_Groc.png" alt="Experiencia" class="card__image">
+        </div>
+        <div class="project">
+          <div class="project__tags">
+            <span class="project__tag"> Git </span>
+            <span class="project__tag"> Java </span>
+            <span class="project__tag"> Java FX </span>
+            <span class="project__tag"> Json </span>
+            <span class="project__tag"> Firebase </span>
+            <span class="project__tag"> SMTP </span>
+            <span class="project__tag"> Node js </span>
+            <span class="project__tag"> XML </span>
+          </div>
+          <h2 class="card__title" data-section="projects" data-value="third-project-title"> Lemur: Scouting & Management </h2>
+          <p class="card__text" data-section="projects" data-value="third-project-description-1"> Trabajo final de DAM. </p>
+          <p class="card__text" data-section="projects" data-value="third-project-description-2"> Gestión de asistencia y material en tiempo real, reporting de información y permisos por roles para asociaciones juveniles, en especial Scouts. Un proyecto muy escalable que continuaré desarrollando hasta hacerlo un producto completo y profesional. </p>
+          <div class="card__link">
+            <i class="fa-brands fa-github icon"></i>
+            <a href="https://github.com/mAndresHervas" target="_blank">
+              ¡Descubre el proyecto en GitHub!
+            </a>
+          </div>
+        </p>
+        </div>
+      </article>
+      <article class="card card--project">
+        <div class="card__image-container">
+          <img src="assets/images/iconfl.png" alt="Experiencia" class="card__image">
+        </div>
+        <div class="project">
+          <div class="project__tags">
+            <span class="project__tag"> Kotlin </span>
+            <span class="project__tag"> SQLDelight </span>
+            <span class="project__tag"> Android Studio </span>
+          </div>
+          <h2 class="card__title" data-section="projects" data-value="third-project-title">Fit Learning </h2>
+          <p class="card__text" data-section="projects" data-value="third-project-description-1">Desarrollé Fit Learning como una app para dispositivos móbiles como parte de un trabajo en el ciclo superior de DAM, usando kotlin y una base de datos local con SQLDelight </p>
+          <p class="card__text" data-section="projects" data-value="third-project-description-2">Enfocada para el seguimiento de ejercicios semanales en el gimnasio. Cuenta con diversos ejercicios y sus instrucciones y un seguimiento en tiempo real de los ejercicios realizados la semana actual, reiniciando cada semana los ejercicios</p>
+          <div class="card__link">
+            <i class="fa-brands fa-github icon"></i>
+            <a href="https://github.com/mAndresHervas" target="_blank">
+              ¡Descubre el proyecto en GitHub!
+            </a>
+          </div>
+        </p>
+        </div>
+      </article>
+    </section>
+  </main>
+  <script src="js/scripts.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,31 @@
+{
+    "profile": {
+      "rol": "Junior Developer",
+      "description": "Over the last years, I have acquired knowledge and skills in various languages and platforms, especially Java, C#, JavaScript, and Android Studio.<br /> I strive to find smart and innovative solutions to the various needs that may arise.<br /> I am looking for new projects and challenges where I can strengthen my skills and learn new technologies and tools.<br /> Resilience and daily learning."
+    },
+    "projects": {
+      "first-project-title": "Junior Developer at Fast Developers",
+      "first-project-description-1": "I did my internship at Fast, where I learned .NET and financial applications focused on the financial sector. I also improved my problem-solving skills.",
+      "first-project-description-2": "Additionally, I improved my presentation and teamwork skills thanks to daily corporate meetings. I also received training in customer service.",
+      "second-project-title": "Volunteer Leader at Scout Group",
+      "second-project-description-1": "Being part of a scout group as a leader for boys and girls aged 11 to 14 is an enriching experience both personally and professionally. During my time as a leader, I have had the opportunity to guide young people in educational and recreational activities, promoting values such as solidarity, respect, and responsibility.",
+      "second-project-description-2": "This volunteering has strengthened my leadership skills, as I have to manage and coordinate groups of children, as well as make quick and effective decisions in diverse situations. Moreover, it has allowed me to improve my teamwork, organization, and communication skills since we always work collaboratively with other leaders to provide quality experiences to participants. This experience has been key in my development as a leader and in my ability to face challenges with confidence.",
+      "third-project-title": "Fit Learning",
+      "third-project-description-1": "I developed Fit Learning as a mobile app as part of a project for my Advanced Vocational Training in Multiplatform Application Development, using Kotlin and a local database with SQLDelight.",
+      "third-project-description-2": "Focused on tracking weekly exercises at the gym. It includes various exercises and their instructions and real-time tracking of the exercises performed during the current week, resetting every week."
+    },
+    "hobbies": {
+      "first-hobby-title": "Hiking",
+      "first-hobby-description": "Hiking is one of my passions, an activity that allows me to disconnect from daily routines. I love exploring new trails and landscapes, enjoying the outdoors, and challenging my own limits by achieving new goals on each route. In addition to being an excellent form of exercise, hiking has taught me to value tranquility, perseverance, and the beauty of our natural environment."
+    },
+    "cards": {
+      "hobbies-title": "Hobbies",
+      "design-multimedia": "Tools",
+      "languages": "Languages"
+    },
+    "languages": {
+      "spanish": "Spanish",
+      "english": "English",
+      "valencian": "Valencian"
+    }
+  }

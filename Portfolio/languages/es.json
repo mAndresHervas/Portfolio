@@ -1,0 +1,31 @@
+{
+    "profile": {
+      "rol": "Desarrollador Junior",
+      "description": "Durante los últimos años he adquirido conocimientos y habilidades en diversos lenguajes y plataformas, en especial Java, C#, JavaScript y Android Studio.<br /> Intento encontrar soluciones inteligentes e innovadoras a las diversas necesidades que puedan surgir.<br /> Estoy en busca de nuevos proyectos y retos donde pueda fortalecer mis habilidades y aprender nuevas tecnologías y herramientas.<br /> Resiliencia y aprendizaje diario."
+    },
+    "projects": {
+      "first-project-title": "Desarrollador Junior en Fast Developers",
+      "first-project-description-1": "Realicé las prácticas de ciclo en Fast, donde aprendí .NET y aplicaciones financieras enfocadas al sector financiero. También pude mejorar mis habilidades de resolución de problemas.",
+      "first-project-description-2": "Además, pude mejorar mis aptitudes de presentación de ideas y trabajo en equipo gracias a las reuniones corporativas llevadas a cabo diariamente. También recibí formación en atención al cliente.",
+      "second-project-title": "Monitor Voluntario en Grupo Scout",
+      "second-project-description-1": "Formar parte de un grupo scout como monitor de niños y niñas de 11 a 14 años es una experiencia enriquecedora tanto a nivel personal como profesional. A lo largo de mi tiempo como monitor, he tenido la oportunidad de guiar a jóvenes en actividades educativas y recreativas, promoviendo valores como la solidaridad, el respeto y la responsabilidad.",
+      "second-project-description-2": "Este voluntariado ha fortalecido mis habilidades de liderazgo, ya que debo gestionar y coordinar grupos de niños, así como tomar decisiones rápidas y efectivas en situaciones diversas. Además, me ha permitido mejorar mis competencias en trabajo en equipo, organización y comunicación, ya que siempre trabajamos de manera colaborativa con otros monitores para ofrecer experiencias de calidad a los participantes. Esta experiencia ha sido clave en mi desarrollo como líder y en mi capacidad para afrontar retos con confianza.",
+      "third-project-title": "Fit Learning",
+      "third-project-description-1": "Desarrollé Fit Learning como una app para dispositivos móviles como parte de un trabajo en el ciclo superior de DAM, usando Kotlin y una base de datos local con SQLDelight.",
+      "third-project-description-2": "Enfocada para el seguimiento de ejercicios semanales en el gimnasio. Cuenta con diversos ejercicios y sus instrucciones y un seguimiento en tiempo real de los ejercicios realizados la semana actual, reiniciando cada semana los ejercicios."
+    },
+    "hobbies": {
+      "first-hobby-title": "Senderismo",
+      "first-hobby-description": "El senderismo es una de mis pasiones, una actividad que me permite desconectar de la rutina diaria. Me encanta explorar nuevos caminos y paisajes, disfrutar del aire libre y desafiar mis propios límites al alcanzar nuevas metas en cada ruta. Además de ser una excelente forma de ejercicio, el senderismo me ha enseñado a valorar la tranquilidad, la perseverancia y la belleza de nuestro entorno natural."
+    },
+    "cards": {
+      "hobbies-title": "Hobbies",
+      "design-multimedia": "Herramientas",
+      "languages": "Idiomas"
+    },
+    "languages": {
+      "spanish": "Español",
+      "english": "Inglés",
+      "valencian": "Valenciano"
+    }
+  }

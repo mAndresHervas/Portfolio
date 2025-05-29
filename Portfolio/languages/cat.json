@@ -1,0 +1,31 @@
+{
+    "profile": {
+      "rol": "Desenvolupador Junior",
+      "description": "Durant els últims anys he adquirit coneixements i habilitats en diversos llenguatges i plataformes, especialment Java, C#, JavaScript i Android Studio.<br /> Intento trobar solucions intel·ligents i innovadores a les diverses necessitats que puguin sorgir.<br /> Estic buscant nous projectes i reptes on pugui enfortir les meves habilitats i aprendre noves tecnologies i eines.<br /> Resiliència i aprenentatge diari."
+    },
+    "projects": {
+      "first-project-title": "Desenvolupador Junior a Fast Developers",
+      "first-project-description-1": "Vaig realitzar les pràctiques del cicle a Fast, on vaig aprendre .NET i aplicacions financeres enfocades al sector financer. També vaig millorar les meves habilitats de resolució de problemes.",
+      "first-project-description-2": "A més, vaig millorar les meves aptituds de presentació d'idees i treball en equip gràcies a les reunions corporatives realitzades diàriament. També vaig rebre formació en atenció al client.",
+      "second-project-title": "Monitor Voluntari en Grup Scout",
+      "second-project-description-1": "Formar part d'un grup scout com a monitor de nens i nenes d'11 a 14 anys és una experiència enriquidora tant a nivell personal com professional. Durant el meu temps com a monitor, he tingut l'oportunitat de guiar joves en activitats educatives i recreatives, promovent valors com la solidaritat, el respecte i la responsabilitat.",
+      "second-project-description-2": "Aquest voluntariat ha reforçat les meves habilitats de lideratge, ja que he de gestionar i coordinar grups de nens, així com prendre decisions ràpides i efectives en situacions diverses. A més, m'ha permès millorar les meves competències en treball en equip, organització i comunicació, ja que sempre treballem de manera col·laborativa amb altres monitors per oferir experiències de qualitat als participants. Aquesta experiència ha estat clau en el meu desenvolupament com a líder i en la meva capacitat per afrontar reptes amb confiança.",
+      "third-project-title": "Fit Learning",
+      "third-project-description-1": "Vaig desenvolupar Fit Learning com una app per a dispositius mòbils com a part d'un treball en el cicle superior de DAM, utilitzant Kotlin i una base de dades local amb SQLDelight.",
+      "third-project-description-2": "Enfocada per al seguiment d'exercicis setmanals al gimnàs. Té diversos exercicis i les seves instruccions i un seguiment en temps real dels exercicis realitzats la setmana actual, reiniciant cada setmana els exercicis."
+    },
+    "hobbies": {
+      "first-hobby-title": "Senderisme",
+      "first-hobby-description": "El senderisme és una de les meves passions, una activitat que em permet desconnectar de la rutina diària. M'encanta explorar nous camins i paisatges, gaudir de l'aire lliure i desafiar els meus propis límits assolint nous objectius a cada ruta. A més de ser una excel·lent forma d'exercici, el senderisme m'ha ensenyat a valorar la tranquil·litat, la perseverança i la bellesa del nostre entorn natural."
+    },
+    "cards": {
+      "hobbies-title": "Aficions",
+      "design-multimedia": "Eines",
+      "languages": "Idiomes"
+    },
+    "languages": {
+      "spanish": "Espanyol",
+      "english": "Anglès",
+      "valencian": "Valencià"
+    }
+  }
